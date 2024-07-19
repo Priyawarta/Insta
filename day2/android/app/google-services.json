@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "957532656057",
+    "project_id": "khanchuwa-b9ab4",
+    "storage_bucket": "khanchuwa-b9ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957532656057:android:15f4d8791266eae8912668",
+        "android_client_info": {
+          "package_name": "com.example.day2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPhkoYfJ1gsZgJbQWd8lJz8Pd7OSnI658"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957532656057:android:f9e550125aa1d4ff912668",
+        "android_client_info": {
+          "package_name": "com.khanchuwa.we"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPhkoYfJ1gsZgJbQWd8lJz8Pd7OSnI658"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
